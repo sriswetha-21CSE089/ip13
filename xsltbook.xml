@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book>
+         <bookid>101</bookid>
+         <bname>ramayanam</bname>
+         <author>valmiki</author>
+         <price>500</price>
+         <year>2013</year>
+    </book>
+     <book>
+         <bookid>102</bookid>
+         <bname>bagavath geethai</bname>
+         <author>krishna</author>
+         <price>700</price>
+          <year>2019</year>
+    </book>
+     <book>
+         <bookid>103</bookid>
+         <bname>mahabaratham</bname>
+         <author>veedaviyasar</author>
+         <price>600</price>
+          <year>2021</year>
+    </book>
+     <book>
+         <bookid>104</bookid>
+         <bname>XML Developer's Guide</bname>
+         <author>Gambardella</author>
+         <price>1000</price>
+          <year>2022</year>
+    </book>
+     <book>
+         <bookid>105</bookid>
+         <bname>Midnight Rain</bname>
+         <author>Ralls</author>
+         <price>300</price>
+          <year>2023</year>
+    </book>
+</books>
